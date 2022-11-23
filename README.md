@@ -82,9 +82,15 @@ The following features were removed due to feature selection:
 {'IQR', 'Q25', 'centroid', 'dfrange', 'kurt', 'maxdom', 'median', 'sfm'}
 
 --- Modeling Results
+
 •	Decision Tree with no FS: 97.2% (Best)
+
 •	Decision Tree with FS: 95.9%
+
 •	KNN with no FS: 69.5%
+
 •	KNN with FS: 79.7%
+
 •	Logistic Regression with no FS: 95.5%
+
 •	Logistic Regression with no FS: 95.7%
