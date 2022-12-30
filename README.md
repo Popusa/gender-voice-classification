@@ -55,6 +55,7 @@ These were the following steps that were taken:
 10. Conclusion
 
 --- Result of Data Cleaning
+
 •	Target classes are balanced
 
 •	Outlier removal will affect scores negatively, and should be kept.
