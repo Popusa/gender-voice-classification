@@ -56,7 +56,9 @@ These were the following steps that were taken:
 
 --- Result of Data Cleaning
 •	Target classes are balanced
+
 •	Outlier removal will affect scores negatively, and should be kept.
+
 •	Basic biological facts about men and women’s voices were confirmed (i.e., no “incorrect” data).
 
 --- Feature Selection
@@ -68,7 +70,7 @@ There are three feature selection methods:
 2. Wrapper Methods
 3. Embedded Methods
 
-*A filtering method was picked.
+*A filtering method was picked (Correlation Method).
 
 --- Modeling
 
